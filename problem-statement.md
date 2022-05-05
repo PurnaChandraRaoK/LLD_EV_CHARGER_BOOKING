@@ -12,16 +12,6 @@ We want to build a EV Charger Booking platform to allow a rider to book a charge
 * Start charging
 * End charging and get notified of the payment pending
 
-Please build an application that exposes following features to riders and drivers.
-* Register a rider.
-* Register a driver/cab
-* Update a cab's location
-* A driver can switch on/off his availability
-* A rider can book a cab
-* Fetch history of all rides taken by a rider.
-* End the Trip
-
-
 ### Expectation from this round
 * Clean professional level Code 
 * Code should be extensible.
