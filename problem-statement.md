@@ -1,20 +1,28 @@
-Booking App
+# EV Charger Booking App
 
-Time Limit : 1.5 hrs - 70 mins coding + 20 mins evaluation
+### Problem Statement:
+We want to build a EV Charger Booking platform to allow a rider to book a chargepoint.
 
-Problem Statement :
-Develop a solution for booking chargers for EVs
-User can get a list of charging stations based on their location
-Book a slot at any station
-Start charging
-End charging and get notified of the payment pending
+### Details:
+* The location is represented as a (x, y) coordinate.
+* Distance between two points (x1, y1) and(x2, y2) is sqrt((x1-x2)^2 + (y1-y2)^2)
+* Develop a solution for booking chargers for EVs.
+* User can get a list of charging stations based on their location.
+* Book a slot at any station
+* Start charging
+* End charging and get notified of the payment pending
 
-Expectations :
-Clean professional level Code
-Functional Completeness including Backend, modelling
-Please focus on solving use-case by use-case. Please ensure that you have at least one use-case totally built out
-Plain but E2E design
-User Identification but not authentication
-Frontend interface is not required. CLI or Postman will work.
-Completeness and handling of multiple scenarios, future extensibility are an added bonus.
-Backend Database is not required. However modelling should be complete.
+### Expectation from this round
+* Clean professional level Code 
+* Code should be extensible.
+* Clean professional level code.
+* Functional Completeness including Backend, modelling
+* User Identification but not authentication.
+* Backend Database is optional. However modelling should be complete.
+* Please focus on solving use-case by use-case. Please ensure that you have at least one use-case totally built out
+* Plain but E2E design
+* User Identification but not authentication
+* Frontend interface is not required. CLI or Postman will work.
+* Completeness and handling of multiple scenarios, future extensibility are an added bonus.
+* Backend Database is not required. However modelling should be complete.
+
