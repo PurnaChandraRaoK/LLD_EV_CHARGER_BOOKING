@@ -2,7 +2,8 @@ package com.purnachandrak.evchargebooking.model;
 
 import static com.purnachandrak.evchargebooking.model.BookingStatus.FINISHED;
 import static com.purnachandrak.evchargebooking.model.BookingStatus.IN_PROGRESS;
-
+import lombok.Getter;
+import lombok.Setter;
 import lombok.NonNull;
 import lombok.ToString;
 
@@ -11,6 +12,8 @@ enum BookingStatus {
   FINISHED
 }
 
+
+@Getter
 @ToString
 public class Booking {
   private Rider rider;
